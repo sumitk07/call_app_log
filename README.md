@@ -6,13 +6,13 @@ A Flutter application for managing call history and contacts, featuring light/da
 
 - Call History
 - View all call logs
-- Search, sort and filter functionality
-- Call duration and timestamp tracking
+- Search, sort and filter UI
+- Call duration and timestamp tracking UI
 
-- Contact Management
-- Contact details view & edit
-- Individual contact call history
-- Call type indicators (missed/outgoing/incoming)
+- Contact Management UI
+- Contact details view & edit UI
+- Individual contact call history UI
+- Call type indicators (missed/outgoing/incoming) UI
 
 - Theme Support
 - Light/Dark mode
